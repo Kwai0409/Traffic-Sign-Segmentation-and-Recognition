@@ -18,15 +18,7 @@ By default, the output of the segmentation and recognition will be saved in a fo
 [!] Please make sure that a folder named "image_without_annotation" that included all input images is created
 command: python segmentation_recognition.py 
 
-#test case 2: test for images_with_annotation (with accuracy and groundtruth)
+#test case 2: test for 70_test_images (with accuracy and groundtruth)
 [!] Please make sure that a folder named "images_with_annotation" that included all input images is created
 [!] Please make sure that a "TsignRecgTrain4170Annotation.txt" that included all annotation for train images is included in the folder
-command: python segmentation_recognition.py -f images_with_annotation -a True -t True
-
-
-
-
-
-
-
-
+command: python segmentation_recognition.py -f 70_test_images -a True -t True

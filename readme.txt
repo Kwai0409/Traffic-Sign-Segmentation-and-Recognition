@@ -1,4 +1,4 @@
-Since the recognition process need "torch" and come other package, you may need to install or update the packages
+Since the recognition process need "torch" and some other package, you may need to install or update the packages
 You can try to use the command below to install and update the packages.
 Installation command: conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 

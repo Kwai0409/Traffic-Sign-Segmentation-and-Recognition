@@ -24,7 +24,11 @@ command: python segmentation_recognition.py
 command: python segmentation_recognition.py -f 70_test_images -a True -t True
 
 #Result
+
 ![tf1](https://github.com/Kwai0409/Traffic-Sign-Segmentation-and-Recognition/assets/96274316/b70e29b1-8a33-4659-be62-17871eab1a14)
+
 ![tf2](https://github.com/Kwai0409/Traffic-Sign-Segmentation-and-Recognition/assets/96274316/215ff03a-6570-4bf3-a1bc-986edf53635c)
+
 ![tf3](https://github.com/Kwai0409/Traffic-Sign-Segmentation-and-Recognition/assets/96274316/4533b0bd-4de0-4dcb-b234-221277ad729f)
+
 ![tf4](https://github.com/Kwai0409/Traffic-Sign-Segmentation-and-Recognition/assets/96274316/494f0241-1bed-492c-88bc-e5c497bbcf7b)
